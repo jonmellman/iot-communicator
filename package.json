@@ -1,0 +1,10 @@
+{
+  "name": "iot-communication",
+  "dependencies": {
+    "aws-mqtt": "^0.2.2",
+    "aws-sdk": "^2.188.0",
+    "bluebird": "^3.5.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
